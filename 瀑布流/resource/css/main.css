@@ -1,0 +1,23 @@
+*{
+	margin:0;
+	padding: 0;
+}
+#main{
+	margin:0 auto;
+	width: 50%;
+	-webkit-column-width:202px;
+	-moz-column-width:202px;
+	column-width:202px;
+
+}
+.box{
+	padding: 15px 7px 0 7px;
+	float: left;
+}
+.pic{
+	border: 1px solid #dddddc;
+}
+.pic img{
+	width: 165px;
+	padding: 10px;
+}
