@@ -1,0 +1,9 @@
+/*图形css*/
+/*1.画三角形*/
+div{
+	width: 0;
+	border-top: 0px solid #fff;
+	border-right: 0px solid #fff;
+	border-bottom: 50px solid #fff;
+	border-left: 50px solid green;
+}
